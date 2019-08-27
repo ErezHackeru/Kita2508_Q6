@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kita2508_Q6", "Kita2508_Q6\Kita2508_Q6.csproj", "{817A1C8B-841D-46C3-ADD6-CC3F05605090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817A1C8B-841D-46C3-ADD6-CC3F05605090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817A1C8B-841D-46C3-ADD6-CC3F05605090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817A1C8B-841D-46C3-ADD6-CC3F05605090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817A1C8B-841D-46C3-ADD6-CC3F05605090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E048FAE-E7A9-4A89-A3BA-B60E5AA31029}
+	EndGlobalSection
+EndGlobal
